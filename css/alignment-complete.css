@@ -3,7 +3,7 @@
 }
 
 .block-right {
-  margin-left: auto;
+  margin-inline-start: auto;
 }
 
 .text-left {
